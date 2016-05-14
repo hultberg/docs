@@ -7,6 +7,7 @@ Besvarelse på 2013 eksamen i IKT-faget.
 * [Innledelse](#Innledelse)
 * [Fakta](#Fakta)
 * [Vurdering](#Vurdering)
+* [Anbefaling](#Anbefaling)
 
 ## Innledelse
 
